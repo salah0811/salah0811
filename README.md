@@ -1,18 +1,10 @@
-###你好👋
-热爱技术，喜欢手指在按键盘上飞舞的感觉🙊
-的😎个人网站：http://www.bhrgz.cn/
-的💕个人邮箱：salah08@163.com
-<!--
-**salah0811/salah0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好呀👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙊热爱技术，喜欢手指在键盘上飞舞的感觉
+
+
+😎个人网站：http://www.bhrgz.cn/
+
+
+💕个人邮箱：salah08@163.com
